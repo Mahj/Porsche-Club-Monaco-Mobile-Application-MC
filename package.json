@@ -45,7 +45,7 @@
       "cordova-plugin-ionic": {
         "APP_ID": "aafaae68",
         "CHANNEL_NAME": "Developpment",
-        "UPDATE_METHOD": "background"
+        "UPDATE_METHOD": "auto"
       }
     }
   }
