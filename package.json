@@ -28,6 +28,7 @@
     "@ionic/storage": "2.1.3",
     "@ngx-translate/core": "8.0.0",
     "@ngx-translate/http-loader": "^2.0.0",
+    "caniuse-lite": "^1.0.30000865",
     "cordova-plugin-ionic": "^4.1.7",
     "ionic-angular": "3.9.2",
     "ionicons": "3.0.0",
